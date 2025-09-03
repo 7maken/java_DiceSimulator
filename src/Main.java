@@ -12,7 +12,7 @@ Random rand = new Random();
 
 int randomNum = rand.nextInt(20) +1;);
 
-System.out.printf("%d", randomNum);
+System.out.printf("%s", randomNum);
 
         class ForLoopExample {
             public static void main(String[] args) {
