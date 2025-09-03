@@ -9,9 +9,9 @@ System.out.println("stand ready for my arrival");
 
 Random rand = new Random();
 
-int randomNum = rand.nextInt(20) +1);
+int randomNum = rand.nextInt(20) +1;);
 
-System.out.printf("%d");
+System.out.printf("%d", randomNum);
 
         class ForLoopExample {
             public static void main(String[] args) {
