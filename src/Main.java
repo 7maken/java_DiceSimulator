@@ -7,5 +7,12 @@ System.out.println("yo");
 System.out.println("adada");
 System.out.println("stand ready for my arrival");
 
+        class ForLoopExample {
+            public static void main(String[] args) {
+                for (int i = 1; i <= 5; i++) {
+                    System.out.println("Number: " + i);
+                }
+            }
+        }
         }
     }
