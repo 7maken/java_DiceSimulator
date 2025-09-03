@@ -7,6 +7,12 @@ System.out.println("yo");
 System.out.println("adada");
 System.out.println("stand ready for my arrival");
 
+Random rand = new Random();
+
+int randomNum = rand.nextInt(20) +1);
+
+System.out.printf("%d");
+
         class ForLoopExample {
             public static void main(String[] args) {
                 for (int i = 1; i <= 5; i++) {
